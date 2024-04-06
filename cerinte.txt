@@ -1,0 +1,9 @@
+List de exercitii de recapitulare:   
+•	Creati un fisier js.
+•	Cretati 3 variabile folosind 3 stiluri de denumiri diferite, camel case, upper snake case si Capitale case.
+•	Creati 3 variabile si folositile intre-un string folosind template literals/string interpoltion.
+•	Schimbati tipul unui number in string si in boolean prin toate metodele pe care lestiti.
+•	Schimbati tipul unui string in number si boolean prin toate metodile pe care le stiti.
+•	Creati if/else blocuri si in conditie folositi toate tipurile de falsy value la fel negatia si operatorii boolean AND si OR.
+•	Creati o variabila/constanta folosind ternery operator
+•	Creati un switch case in care utilizatorul poate alege un tip de meniu in restaurnat.
